@@ -1,6 +1,6 @@
 # My-Net-Diary-Website-Clone
 
-
+##Group Project
 MyNetDiary is a web application that allows you to track what you eat and how much you exercise according to your given details.
 
 
@@ -37,5 +37,10 @@ MyNetDiary is a web application that allows you to track what you eat and how mu
 ![mynet2](https://user-images.githubusercontent.com/83025741/189307650-0e24d5e7-a96b-472c-9b8f-8bd3e24b0ff9.PNG)
 ![mynet3](https://user-images.githubusercontent.com/83025741/189307681-b551130f-c108-4081-be85-694b46ba4807.PNG)
 ![mynet4](https://user-images.githubusercontent.com/83025741/189307688-b03bec3a-0545-4d89-962d-92821ffd620f.PNG)
-
+# Contributors:-
+- Sakshi Kumari
+- Faizan Khan
+- Karthik Kunwar
+- Bhawana Chadda
+- Prakash Venature
  
