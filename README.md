@@ -29,8 +29,7 @@ MyNetDiary is a web application that allows you to track what you eat and how mu
 
 ## Live app Link
 - https://admirable-heliotrope-39fc31.netlify.app/
- ## Screenshots![mynethome](https://user-images.githubusercontent.com/83025741/189307619-58dbf446-466c-4e77-985a-b76a6622f3d0.PNG)
-
+ ## Screenshots
   #### These are some screenshort for overview of website
   ![mynethome](https://user-images.githubusercontent.com/83025741/189307619-58dbf446-466c-4e77-985a-b76a6622f3d0.PNG)
 
